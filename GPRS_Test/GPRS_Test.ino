@@ -1,0 +1,4 @@
+AT+SAPBR=3,1,"CONTYPE","GPRS"
+AT+SAPBR=3,1,"APN","airtelgprs.com"
+AT+SAPBR=1,1
+AT+CIPGSMLOC=1,1 
